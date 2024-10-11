@@ -1,0 +1,10 @@
+langchain
+langchain-ollama
+langchain-community
+faiss-cpu
+PyPDF2
+sentence-transformers
+transformers
+torch
+numpy
+tqdm
